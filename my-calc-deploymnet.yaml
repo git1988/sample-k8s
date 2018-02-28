@@ -11,6 +11,6 @@ spec:
     spec:
       containers:
       - name: my-calc
-        image: docker1988/mynginx
+        image: docker1988/my-calc
         ports:
         - containerPort: 5000
